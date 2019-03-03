@@ -17,7 +17,4 @@ for language in set(favorite_language.values()):
 	print("\n" + language.title())
 '''
 
-names=[1,2,3,4,]
-print(names)
-
 
